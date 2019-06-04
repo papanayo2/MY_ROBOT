@@ -1,6 +1,7 @@
 # MY_ROBOT
 
 ![alt text](https://github.com/papanayo2/MY_ROBOT/blob/master/DSC01676.JPG)
+![alt text](https://github.com/papanayo2/MY_ROBOT/blob/master/32nd1a.gif)
 ![alt text](https://github.com/papanayo2/MY_ROBOT/blob/master/DSC01549.JPG)
 ![alt text](https://github.com/papanayo2/MY_ROBOT/blob/master/DSC01585.JPG)
 ![alt text](https://github.com/papanayo2/MY_ROBOT/blob/master/DSC01596.JPG)
